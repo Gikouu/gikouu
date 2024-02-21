@@ -18,6 +18,8 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gikouu&repo=Detector-de-Plagio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gikouu/Detector-de-Plagio)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gikouu&repo=classificador-de-sentimentos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gikouu/classificador-de-sentimentos)
+
 ## 📏Algumas estatísticas
 
 <div align="center">
