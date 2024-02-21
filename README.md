@@ -18,6 +18,7 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gikouu&repo=Detector-de-Plagio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gikouu/Detector-de-Plagio)
 
+<img src="https://ghc.clait.sh/repo/Gikouu/classificador-de-sentimentos?bg_color=181616&title_color=da3e3e&text_color=ffffff&icon_color=e8e226&show_user=true" alt="GitHub Repo Card">
 
 ## 📏Algumas estatísticas
 
